@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+:root {
+  --main-bg-color: #7255e6;
+  --main-text-color: #009d63;
+  --second-text-color: #bbbec5;
+  --second-bg-color: #f3f3f3;
+}
+body {
+  background-color: var(--body-bg);
+  font-family: "Droid Serif", Serif;
+  font-size: 16px;
+  text-align: justify;
+  font-weight: 400;
+  color: #333333;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  font-family: "Patua One", Cursive;
+}
+
+.bg-top {
+  background-color: #0b88c2;
+  color: #f3f3f3;
+}
+.main_img {
+  width: 480px;
+  height: 354px;
+}
